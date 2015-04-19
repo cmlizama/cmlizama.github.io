@@ -1,0 +1,11 @@
+{
+  "name": "cmlizama",
+  "version": "1.0.0",
+  "description": "Chris Lizama's personal site",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "Chris Lizama",
+  "license": "MIT"
+}
