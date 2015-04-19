@@ -16,3 +16,6 @@ h2 {
 .footer-text {
   color: black;
 }*/
+.data a, .data span, .data tr, .data td, .data h1 { 
+  white-space: pre; 
+}
